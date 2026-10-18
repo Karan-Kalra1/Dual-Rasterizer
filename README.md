@@ -3,6 +3,9 @@
 
 A hybrid **Software (C++)** and **Hardware (DirectX 11)** 3D rasterization engine built in C++ using Microsoft Visual Studio. The project demonstrates the fundamental rendering pipeline by implementing a multi-threaded software rasterizer alongside a feature-matched DirectX 11 hardware pipeline, complete with dynamic runtime toggling, custom lighting, depth buffering, texture sampling, and mesh rendering.
 
+
+<img width="640" height="480" alt="2026-10-1900-24-02-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/727c8006-7c2d-4407-928f-0c7e615e950d" />
+
 ---
 
 ## 📸 Key Features
